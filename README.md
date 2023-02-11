@@ -6,6 +6,7 @@ Trying to evade AV/EDRs using Process hollowing with standalone dynamic invocati
 This implementation contains a xor encrypted `msfvenom` reverse_https payload, modify it with your own shellcode, compile it and profit!
 To further evade detection, it is recommended to pack the executable with `PEzor` or scramble and obfuscate it with `ConfuserEx`.
 
+<img src="img/1.png" width=30% height=20%>
 
 # Refs
 * OSEP
