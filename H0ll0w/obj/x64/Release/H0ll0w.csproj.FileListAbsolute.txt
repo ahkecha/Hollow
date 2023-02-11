@@ -1,0 +1,8 @@
+C:\Users\d3bug\source\repos\H0ll0w\H0ll0w\bin\x64\Release\H0ll0w.exe.config
+C:\Users\d3bug\source\repos\H0ll0w\H0ll0w\bin\x64\Release\H0ll0w.exe
+C:\Users\d3bug\source\repos\H0ll0w\H0ll0w\bin\x64\Release\H0ll0w.pdb
+C:\Users\d3bug\source\repos\H0ll0w\H0ll0w\obj\x64\Release\H0ll0w.csproj.AssemblyReference.cache
+C:\Users\d3bug\source\repos\H0ll0w\H0ll0w\obj\x64\Release\H0ll0w.csproj.SuggestedBindingRedirects.cache
+C:\Users\d3bug\source\repos\H0ll0w\H0ll0w\obj\x64\Release\H0ll0w.csproj.CoreCompileInputs.cache
+C:\Users\d3bug\source\repos\H0ll0w\H0ll0w\obj\x64\Release\H0ll0w.exe
+C:\Users\d3bug\source\repos\H0ll0w\H0ll0w\obj\x64\Release\H0ll0w.pdb
