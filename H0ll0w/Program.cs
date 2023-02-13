@@ -640,6 +640,8 @@ class Program {
             return;
         }
 
+        // __arg.buf = "INSERT SHELLCODE HERE IF YOU DONT WANT TO DOWNLOAD IT FROM A URL";
+
         var pointer = Generic.GetLibraryAddress("kernel32.dll", "OpenProcess");
         OpenProcess opr = Marshal.GetDelegateForFunctionPointer(
             pointer, typeof(OpenProcess)) as OpenProcess;
