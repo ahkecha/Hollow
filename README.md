@@ -12,8 +12,6 @@ Example:
 
 To further evade detection, it is recommended to pack the executable with `PEzor` or scramble and obfuscate it with `ConfuserEx`.
 
-<img src="img/1.png" width=30% height=20%>
-
 # Refs
 * OSEP
 * [Rasta Mouse](https://web.archive.org/web/20210601171512/https://rastamouse.me/blog/process-injection-dinvoke/)
